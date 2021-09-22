@@ -24,5 +24,7 @@ HTML y CSS
 Git
 
 Contact:
+
 agustina.corb@gmail.com
+
 https://www.linkedin.com/in/agustina-corbalan-b0b8561b6/
