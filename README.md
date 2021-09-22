@@ -18,10 +18,17 @@ React.js
 Redux
 
 NodeJS
+
 Express.js
+
 PostgreSQL
+
 MongoDb
+
 Mongoose
+
 Sequelize ORM
+
 HTML y CSS
+
 Git
