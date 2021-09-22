@@ -9,7 +9,7 @@ I'm a Fullstack Developer, with preferences in the Backend.
 
 
 
-Technologies and Tools I work with:
+#Technologies and Tools I work with:
 
 JavaScript
 
