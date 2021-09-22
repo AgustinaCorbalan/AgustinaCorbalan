@@ -12,23 +12,17 @@ I'm a Fullstack Developer, with preferences in the Backend.
 Technologies and Tools I work with:
 
 JavaScript
-
 React.js
-
 Redux
-
 NodeJS
-
 Express.js
-
 PostgreSQL
-
 MongoDb
-
 Mongoose
-
 Sequelize ORM
-
 HTML y CSS
-
 Git
+
+Contact:
+agustina.corb@gmail.com
+https://www.linkedin.com/in/agustina-corbalan-b0b8561b6/
