@@ -23,17 +23,13 @@ Sequelize ORM,
 HTML y CSS,
 Git
 
-Contact:
-
-agustina.corb@gmail.com
-
-https://www.linkedin.com/in/agustina-corbalan-b0b8561b6/
 
 Some of my projects:
 
 Single Page Application - Videogames:
 
-
-
 ![datailgame](https://user-images.githubusercontent.com/73036102/135509028-cd91e564-8c33-4d8b-843f-da1230ee4c6d.jpg)
-![mariobross](https://user-images.githubusercontent.com/73036102/135509058-8d0d4719-4c30-44fb-a812-1f90e3ffa6f2.jpg)
+
+Wheather App:
+
+![WhatsApp Image 2021-09-28 at 14 05 14](https://user-images.githubusercontent.com/73036102/135509570-d3bb1e11-b61e-4e49-af38-be11f7a4e3e2.jpeg)
