@@ -1,7 +1,6 @@
 
 # Agustina Corbalan ☺
 
-![Diseño sin título](https://user-images.githubusercontent.com/73036102/134390075-dbb0bd61-7512-4616-9116-a87cc2871486.png)
 
 
 Hello! I'm Agustina 👋
