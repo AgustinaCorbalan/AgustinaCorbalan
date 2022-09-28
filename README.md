@@ -4,7 +4,7 @@
 
 
 Hello! I'm Agustina 👋
-I'm a Fullstack Developer, with preferences in the Backend.
+I'm a Fullstack Developer.
 
 
 
@@ -21,6 +21,8 @@ Mongoose,
 Sequelize ORM,
 HTML y CSS,
 Git
+Typescript
+
 
 
 SOME OF MY PROJECTS:
